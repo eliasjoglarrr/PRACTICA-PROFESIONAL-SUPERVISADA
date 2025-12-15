@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="200"/>
+  <img src="./9.png" alt="Facultad de Ingeniería - UNLZ" width="180">
 </p>
+
 
 # Sistema de Manipulación Automatizada para Brazo Robot
 
@@ -13,8 +14,9 @@ El sistema está pensado para ser utilizado por un **brazo robótico**, permitie
 ## 📌 Descripción del Proyecto
 
 <p align="center">
-  <img src="imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="200"/>
+  <img src="./Ensamblaaje.gif" alt="Proceso de automatización" width="500">
 </p>
+
 
 El proyecto consiste en el diseño de un conjunto modular compuesto por:
 
