@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="180">
+  <img src="Imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="400">
 </p>
 
 
