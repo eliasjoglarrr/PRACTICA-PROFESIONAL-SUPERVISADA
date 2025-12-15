@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="200"/>
+</p>
 
-# Sistema Modular de Manipulación Automatizada para Brazo Robot
+# Sistema de Manipulación Automatizada para Brazo Robot
 
 Este repositorio contiene el diseño y documentación de un **sistema modular de manipulación automatizada**, desarrollado en el marco de la **Práctica Profesional Supervisada** de la carrera **Ingeniería Mecatrónica** (UNLZ).
 
@@ -8,6 +11,10 @@ El sistema está pensado para ser utilizado por un **brazo robótico**, permitie
 ---
 
 ## 📌 Descripción del Proyecto
+
+<p align="center">
+  <img src="imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="200"/>
+</p>
 
 El proyecto consiste en el diseño de un conjunto modular compuesto por:
 
