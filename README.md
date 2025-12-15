@@ -14,7 +14,7 @@ El sistema está pensado para ser utilizado por un **brazo robótico**, permitie
 ## 📌 Descripción del Proyecto
 
 <p align="center">
-  <img src="Imagenes/Ensamblaje.gif" alt="Proceso de automatización" width="500">
+  <img src="Imagenes/Ensamblaje.gif" alt="Proceso de automatización" width="300">
 </p>
 
 
@@ -44,6 +44,13 @@ Diseñar y validar un sistema modular de manipulación compuesto por una bandeja
 - Estructura superior en forma de **H**, optimizada para el agarre del gripper.
 - Diseño dividido en dos partes para facilitar el reemplazo ante roturas.
 
+- <p align="center">
+  <img src="Imagenes/2.jpeg" width="300">
+  <img src="Imagenes/3.jpeg" width="300">
+  <img src="Imagenes/4.jpeg" width="300">
+</p>
+
+
 ### 2. Piezas intercambiables
 - Piezas impresas en 3D.
 - Encastres tipo macho para posicionamiento preciso.
@@ -60,6 +67,11 @@ Diseñar y validar un sistema modular de manipulación compuesto por una bandeja
 - Tope final que define la posición exacta de pick-up.
 - Diseño que permite el ingreso del gripper sin interferencias.
 
+- <p align="center">
+  <img src="Imagenes/Dispensador.gif" alt="Proceso de automatización" width="300">
+- <p align="center">
+  <img src="Imagenes/5.jpeg" alt="Facultad de Ingeniería - UNLZ" width="300">
+</p>
 ---
 
 ## 🛠️ Tecnologías y Herramientas
