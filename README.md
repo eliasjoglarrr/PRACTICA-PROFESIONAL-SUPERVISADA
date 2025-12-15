@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./9.png" alt="Facultad de Ingeniería - UNLZ" width="180">
+  <img src="Imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="180">
 </p>
 
 
@@ -14,7 +14,7 @@ El sistema está pensado para ser utilizado por un **brazo robótico**, permitie
 ## 📌 Descripción del Proyecto
 
 <p align="center">
-  <img src="./Ensamblaaje.gif" alt="Proceso de automatización" width="500">
+  <img src="Imagenes/Ensamblaje.gif" alt="Proceso de automatización" width="500">
 </p>
 
 
