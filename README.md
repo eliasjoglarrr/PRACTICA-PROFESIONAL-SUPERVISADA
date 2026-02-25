@@ -11,7 +11,7 @@ El sistema está pensado para ser utilizado por un **brazo robótico**, permitie
 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 <p align="center">
   <img src="Imagenes/Ensamblaje.gif" alt="Proceso de automatización" width="300">
@@ -30,13 +30,13 @@ Todo el sistema fue desarrollado en **CAD 3D**, priorizando la modularidad, la r
 
 ---
 
-## 🎯 Objetivo General
+## Objetivo General
 
 Diseñar y validar un sistema modular de manipulación compuesto por una bandeja con agarre en H, piezas intercambiables y un dispensador, que permita la sujeción, alimentación y manipulación confiable por un brazo robot mediante TCP.
 
 ---
 
-## 🧩 Componentes del Sistema
+## Componentes del Sistema
 
 ### 1. Bandeja con agarre en H
 - Base de posicionamiento impresa en 3D.
@@ -74,7 +74,7 @@ Diseñar y validar un sistema modular de manipulación compuesto por una bandeja
 </p>
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y Herramientas
 
 - **Diseño CAD 3D**
 - **Impresión 3D** (para bandeja y piezas)
@@ -83,7 +83,7 @@ Diseñar y validar un sistema modular de manipulación compuesto por una bandeja
 
 ---
 
-## ✅ Validación y Pruebas
+## Validación y Pruebas
 
 - Verificación de tolerancias y encastres.
 - Pruebas de repetitibilidad en la manipulación.
@@ -92,7 +92,7 @@ Diseñar y validar un sistema modular de manipulación compuesto por una bandeja
 
 ---
 
-## 📈 Alcance del Proyecto
+## Alcance del Proyecto
 
 Este repositorio cubre:
 - Diseño y desarrollo del sistema.
@@ -104,7 +104,7 @@ No incluye la programación del robot ni la integración con sistemas de control
 
 ---
 
-## 👨‍🎓 Autores
+## Autores
 
 - **De Lio, Nicolás**
 - **Bellomi, Federico**
@@ -115,17 +115,16 @@ Facultad de Ingeniería – Universidad Nacional de Lomas de Zamora
 
 ---
 
-## 👨‍🏫 Tutores
+## Tutores
 
 - Tutor Institucional: Martín González  
 - Tutor Académico: Cristian Lukaszewicz
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto se desarrolló con fines académicos.  
-El uso, modificación y redistribución queda sujeto a autorización de los autores.
 
 ---
 
