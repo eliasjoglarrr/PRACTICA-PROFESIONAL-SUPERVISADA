@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="Imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="650">
+  <img src="Imagenes/L1.png" alt="Imagen izquierda" width="180" height="360">
+  <img src="Imagenes/9.png" alt="Facultad de Ingeniería - UNLZ" width="400" height="360">
+  <img src="Imagenes/L2.jpg" alt="Imagen derecha" width="180" height="360">
 </p>
-
 
 # Sistema de Manipulación Automatizada para Brazo Robot
 
